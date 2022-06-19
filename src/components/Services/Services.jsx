@@ -6,7 +6,7 @@ import Develop from "../../img/developing.png";
 import Uiux from "../../img/uiux.png";
 import { themeContext } from "../../Context";
 import { motion } from "framer-motion";
-import Resume from './resume.pdf';
+import Resume from '../Services/resume.pdf';
 
 const Services = () => {
   // context
