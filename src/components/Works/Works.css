@@ -41,7 +41,7 @@
   
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 780px) {
   .works {
     flex-direction: column;
     height: 55rem;
@@ -50,6 +50,8 @@
   }
 
   .w-right {
+    
+    margin-top: -100px;
     display: flex;
     align-items: flex-start;
     justify-content:end;
